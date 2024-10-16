@@ -5,15 +5,20 @@ We calculate the synthetic mutual gauge field cooperated by microwave shielding 
 Calculation Scripts
 
 1.We calculate the synthetic magnetic field in fig3a.nb.
+
 2.We calculate the total magnetic flux across the equator in the regime outside of the shielding core in fig3b.nb.
+
 3.We calculate the angular momentum of the ground state of the two microwave-shielded molecules in a harmonic trap in ShieldedMolecule-Lz.py
 
 Usage
+
 Place the pack folder and ShieldedMolecule-Lz.py in the same directory.
 
 Data
+
 The data from 'data.txt' is responsible for generating Fig-4.png.
 
 Acknowledgements
+
 Thanks to Dr. Wang for assistance with the code. This program uses Dr. Wang’s numerical-1DTISE, available at GitHub link.
 
